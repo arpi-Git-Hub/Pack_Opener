@@ -31,6 +31,462 @@
             "Position": "CF",
             "Nation": "france",
             "Club": "alittihad"
+        },
+        {
+            "ID": 5,
+            "Type": "walkout",
+            "Name": "Lewandowski",
+            "Position": "ST",
+            "Nation": "polish",
+            "Club": "barca"
+        },
+        {
+            "ID": 6,
+            "Type": "walkout",
+            "Name": "Messi",
+            "Position": "CF",
+            "Nation": "argentin",
+            "Club": "intermiami"
+        },
+        {
+            "ID": 7,
+            "Type": "walkout",
+            "Name": "Courtois",
+            "Position": "GK",
+            "Nation": "belgium",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 8,
+            "Type": "walkout",
+            "Name": "Kane",
+            "Position": "ST",
+            "Nation": "england",
+            "Club": "bayern"
+        },
+        {
+            "ID": 9,
+            "Type": "walkout",
+            "Name": "Casemiro",
+            "Position": "CDM",
+            "Nation": "brasil",
+            "Club": "manunited"
+        },
+        {
+            "ID": 10,
+            "Type": "walkout",
+            "Name": "Ruben Dias",
+            "Position": "CB",
+            "Nation": "portugal",
+            "Club": "mancity"
+        },
+        {
+            "ID": 11,
+            "Type": "walkout",
+            "Name": "Neymar Jr",
+            "Position": "LW",
+            "Nation": "brasil",
+            "Club": "alhilal"
+        },
+        {
+            "ID": 12,
+            "Type": "walkout",
+            "Name": "Rodri",
+            "Position": "CDM",
+            "Nation": "spain",
+            "Club": "mancity"
+        },
+        {
+            "ID": 13,
+            "Type": "walkout",
+            "Name": "Salah",
+            "Position": "RW",
+            "Nation": "egypt",
+            "Club": "liverpool"
+        },
+        {
+            "ID": 14,
+            "Type": "walkout",
+            "Name": "van Dijk",
+            "Position": "CB",
+            "Nation": "dutch",
+            "Club": "liverpool"
+        },
+        {
+            "ID": 15,
+            "Type": "walkout",
+            "Name": "Vini Jr.",
+            "Position": "LW",
+            "Nation": "brasil",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 16,
+            "Type": "walkout",
+            "Name": "ter Stegen",
+            "Position": "GK",
+            "Nation": "german",
+            "Club": "barca"
+        },
+        {
+            "ID": 17,
+            "Type": "walkout",
+            "Name": "Alisson",
+            "Position": "GK",
+            "Nation": "brasil",
+            "Club": "liverpool"
+        },
+        {
+            "ID": 18,
+            "Type": "walkout",
+            "Name": "Kimmich",
+            "Position": "CDM",
+            "Nation": "german",
+            "Club": "bayern"
+        },
+        {
+            "ID": 19,
+            "Type": "walkout",
+            "Name": "Bernardo Silva",
+            "Position": "CM",
+            "Nation": "portugal",
+            "Club": "mancity"
+        },
+        {
+            "ID": 20,
+            "Type": "walkout",
+            "Name": "Bruno Fernandes",
+            "Position": "CAM",
+            "Nation": "portugal",
+            "Club": "manunited"
+        },
+        {
+            "ID": 21,
+            "Type": "walkout",
+            "Name": "Griezmann",
+            "Position": "ST",
+            "Nation": "france",
+            "Club": "amadrid"
+        },
+        {
+            "ID": 22,
+            "Type": "walkout",
+            "Name": "Oblak",
+            "Position": "GK",
+            "Nation": "sloven",
+            "Club": "amadrid"
+        },
+        {
+            "ID": 23,
+            "Type": "walkout",
+            "Name": "Oshimen",
+            "Position": "ST",
+            "Nation": "nigerian",
+            "Club": "napoli"
+        },
+        {
+            "ID": 24,
+            "Type": "walkout",
+            "Name": "Ederson",
+            "Position": "GK",
+            "Nation": "brasil",
+            "Club": "mancity"
+        },
+        {
+            "ID": 25,
+            "Type": "walkout",
+            "Name": "Valverde",
+            "Position": "CM",
+            "Nation": "uruguay",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 26,
+            "Type": "walkout",
+            "Name": "Maignan",
+            "Position": "GK",
+            "Nation": "france",
+            "Club": "milan"
+        },
+        {
+            "ID": 27,
+            "Type": "walkout",
+            "Name": "Martinez",
+            "Position": "ST",
+            "Nation": "argentin",
+            "Club": "inter"
+        },
+        {
+            "ID": 28,
+            "Type": "walkout",
+            "Name": "Odegaard",
+            "Position": "CAM",
+            "Nation": "norway",
+            "Club": "arsenal"
+        },
+        {
+            "ID": 29,
+            "Type": "walkout",
+            "Name": "Donnarumma",
+            "Position": "GK",
+            "Nation": "italy",
+            "Club": "psg"
+        },
+        {
+            "ID": 30,
+            "Type": "walkout",
+            "Name": "de Jong",
+            "Position": "CM",
+            "Nation": "dutch",
+            "Club": "barca"
+        },
+        {
+            "ID": 31,
+            "Type": "walkout",
+            "Name": "Kobel",
+            "Position": "GK",
+            "Nation": "switz",
+            "Club": "dortmund"
+        },
+        {
+            "ID": 32,
+            "Type": "walkout",
+            "Name": "Son",
+            "Position": "LW",
+            "Nation": "korean",
+            "Club": "spurs"
+        },
+        {
+            "ID": 33,
+            "Type": "walkout",
+            "Name": "Marquinhos",
+            "Position": "CB",
+            "Nation": "brasil",
+            "Club": "psg"
+        },
+        {
+            "ID": 34,
+            "Type": "walkout",
+            "Name": "Modric",
+            "Position": "CM",
+            "Nation": "croatia",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 35,
+            "Type": "walkout",
+            "Name": "Neuer",
+            "Position": "GK",
+            "Nation": "german",
+            "Club": "bayern"
+        },
+        {
+            "ID": 36,
+            "Type": "walkout",
+            "Name": "Dembele",
+            "Position": "RW",
+            "Nation": "france",
+            "Club": "psg"
+        },
+        {
+            "ID": 37,
+            "Type": "walkout",
+            "Name": "Saka",
+            "Position": "RW",
+            "Nation": "england",
+            "Club": "arsenal"
+        },
+        {
+            "ID": 38,
+            "Type": "walkout",
+            "Name": "Bellingham",
+            "Position": "CM",
+            "Nation": "england",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 39,
+            "Type": "walkout",
+            "Name": "Rafael Leao",
+            "Position": "LW",
+            "Nation": "portugal",
+            "Club": "milan"
+        },
+        {
+            "ID": 40,
+            "Type": "walkout",
+            "Name": "Pedri",
+            "Position": "CM",
+            "Nation": "spain",
+            "Club": "barca"
+        },
+        {
+            "ID": 41,
+            "Type": "walkout",
+            "Name": "de Ligt",
+            "Position": "CB",
+            "Nation": "dutch",
+            "Club": "bayern"
+        },
+        {
+            "ID": 42,
+            "Type": "walkout",
+            "Name": "Tonali",
+            "Position": "CDM",
+            "Nation": "italy",
+            "Club": "newcastle"
+        },
+        {
+            "ID": 43,
+            "Type": "walkout",
+            "Name": "Mahrez",
+            "Position": "RM",
+            "Nation": "algerian",
+            "Club": "alahli"
+        },
+        {
+            "ID": 44,
+            "Type": "walkout",
+            "Name": "Musiala",
+            "Position": "CAM",
+            "Nation": "german",
+            "Club": "bayern"
+        },
+        {
+            "ID": 45,
+            "Type": "walkout",
+            "Name": "Barella",
+            "Position": "CM",
+            "Nation": "italy",
+            "Club": "inter"
+        },
+        {
+            "ID": 46,
+            "Type": "walkout",
+            "Name": "Araujo",
+            "Position": "CB",
+            "Nation": "uruguay",
+            "Club": "barca"
+        },
+        {
+            "ID": 47,
+            "Type": "walkout",
+            "Name": "Dybala",
+            "Position": "CF",
+            "Nation": "argentin",
+            "Club": "roma"
+        },
+        {
+            "ID": 48,
+            "Type": "walkout",
+            "Name": "Gundogan",
+            "Position": "CM",
+            "Nation": "german",
+            "Club": "barca"
+        },
+        {
+            "ID": 49,
+            "Type": "walkout",
+            "Name": "Milinkovic Savic",
+            "Position": "CM",
+            "Nation": "serbian",
+            "Club": "alhilal"
+        },
+        {
+            "ID": 50,
+            "Type": "walkout",
+            "Name": "Kvaratskhelia",
+            "Position": "LW",
+            "Nation": "georgian",
+            "Club": "napoli"
+        },
+        {
+            "ID": 51,
+            "Type": "walkout",
+            "Name": "Robertson",
+            "Position": "LB",
+            "Nation": "scottish",
+            "Club": "liverpool"
+        },
+        {
+            "ID": 52,
+            "Type": "walkout",
+            "Name": "Parejo",
+            "Position": "CM",
+            "Nation": "spain",
+            "Club": "villareal"
+        },
+        {
+            "ID": 53,
+            "Type": "walkout",
+            "Name": "Mane",
+            "Position": "CF",
+            "Nation": "senegal",
+            "Club": "alnassr"
+        },
+        {
+            "ID": 54,
+            "Type": "walkout",
+            "Name": "Kroos",
+            "Position": "CM",
+            "Nation": "german",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 55,
+            "Type": "walkout",
+            "Name": "Eder Militao",
+            "Position": "CB",
+            "Nation": "brasil",
+            "Club": "rmadrid"
+        },
+        {
+            "ID": 56,
+            "Type": "walkout",
+            "Name": "Nkunku",
+            "Position": "CF",
+            "Nation": "france",
+            "Club": "chelsea"
+        },
+        {
+            "ID": 57,
+            "Type": "walkout",
+            "Name": "Kante",
+            "Position": "CDM",
+            "Nation": "france",
+            "Club": "alittihad"
+        },
+        {
+            "ID": 58,
+            "Type": "walkout",
+            "Name": "Verratti",
+            "Position": "CM",
+            "Nation": "italy",
+            "Club": "psg"
+        },
+        {
+            "ID": 59,
+            "Type": "walkout",
+            "Name": "Joao Cancelo",
+            "Position": "LB",
+            "Nation": "portugal",
+            "Club": "barca"
+        },
+        {
+            "ID": 60,
+            "Type": "walkout",
+            "Name": "Cristiano Ronaldo",
+            "Position": "ST",
+            "Nation": "portugal",
+            "Club": "alnassr"
+        },
+        {
+            "ID": 61,
+            "Type": "walkout",
+            "Name": "Alexander Arnold",
+            "Position": "RB",
+            "Nation": "england",
+            "Club": "liverpool"
         }
     ]
 }
