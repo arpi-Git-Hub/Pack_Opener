@@ -1,0 +1,36 @@
+{
+    "data":[
+        {
+            "ID": 1,
+            "Type": "walkout",
+            "Name": "Mbappe",
+            "Position": "ST",
+            "Nation": "france",
+            "Club": "psg"
+        },
+        {
+            "ID": 2,
+            "Type": "walkout",
+            "Name": "De Bruyne",
+            "Position": "CM",
+            "Nation": "belgium",
+            "Club": "mancity"
+        },
+        {
+            "ID": 3,
+            "Type": "walkout",
+            "Name": "Haaland",
+            "Position": "ST",
+            "Nation": "norway",
+            "Club": "mancity"
+        },
+        {
+            "ID": 4,
+            "Type": "walkout",
+            "Name": "Benzema",
+            "Position": "CF",
+            "Nation": "france",
+            "Club": "alittihad"
+        }
+    ]
+}
